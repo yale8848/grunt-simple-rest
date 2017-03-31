@@ -1,7 +1,7 @@
 {
     "name": "grunt-simple-rest",
     "description": "grunt simple rest http utils to verify api",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "homepage": "https://github.com/yale8848/grunt-simple-rest.git",
     "author": {
         "name": "yale8848",

@@ -48,6 +48,10 @@ grunt.initConfig({
 });
 ```
 
+### notice
+
+`if the server return json string include {"success":true},the http request return success , other is fail`
+
 ### simple intro
 
 #### simple.async
