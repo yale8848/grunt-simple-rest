@@ -1,5 +1,7 @@
 # grunt-simple-rest
 
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 > grunt simple rest http utils to verify api
 
 ## Getting Started
